@@ -1,6 +1,6 @@
 // src/components/Card.jsx
 import React from "react";
-import "./Card.css"; // optional css file
+
 
 function Card({ title, description, image }) {
   return (
